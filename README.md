@@ -8,9 +8,6 @@ I am a software analysis and development technologist student at SENA.
 I am proficient in programming languages such as Python, along with its frameworks like Django and Flask.
 I love to learn and build new, productive, innovative, and creative things.
 * **I am interested in backend development.**
-- 🌱 I’m currently learning ...
-  - Tyscript
-  - Nest js
 - Outside tech, 🎮 I love playing video games, 🎵 listening to music, and ⚽ I enjoy playing sports.
 
 ## My Skills Include
