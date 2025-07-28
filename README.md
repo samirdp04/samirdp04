@@ -13,14 +13,59 @@ I love to learn and build new, productive, innovative, and creative things.
 ## My Skills Include
 
 <h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
-	
-</span>
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+      <tr>
+        <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="html5 logo" />
+          <br>
+          <b>HTML5</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="css3 logo" />
+          <br>
+          <b>CSS3</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react logo" />
+          <br>
+          <b>React</b>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="python logo" />
+          <br>
+          <b>Python</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="django logo" />
+          <br>
+          <b>Django</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="flask logo" />
+          <br>
+          <b>Flask</b>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="javascript logo" />
+          <br>
+          <b>JavaScript</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="git logo" />
+          <br>
+          <b>Git</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="mysql logo" />
+          <br>
+          <b>MySQL</b>
+        </td>
+      </tr>
+    </table>
+</div>
 
