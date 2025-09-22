@@ -10,10 +10,42 @@ I love to learn and build new, productive, innovative, and creative things.
 * **I am interested in backend development.**
 - Outside tech, 🎮 I love playing video games, 🎵 listening to music, and ⚽ I enjoy playing sports.
 
-## My Skills Include
-
-<h4> Languages </h4>
-<div style="display: flex; align-items: flex-start; align: center">
+## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+<div align="center"> 
+    <h4> Backend </h4>
+    <table>
+      <tr>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="python logo" />
+          <br>
+          <b>Python</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="django logo" />
+          <br>
+          <b>Django</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="flask logo" />
+          <br>
+          <b>Flask</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="javascript logo" />
+          <br>
+          <b>JavaScript</b>
+        </td>
+        <td align="center" width="100">
+           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="restapi logo" />
+           <br><b>Rest API</b>
+        </td>
+        <td align="center" width="100">
+           <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="fastapi logo" />
+           <br><b>FastAPI</b>
+        </td>
+      </tr>
+    </table>
+    <h4> Frontend </h4>
     <table align="center">
       <tr>
         <td align="center" width="100">
@@ -32,38 +64,24 @@ I love to learn and build new, productive, innovative, and creative things.
           <b>React</b>
         </td>
       </tr>
+    </table>
+    <h4> Databases and Tools</h4>
+    <table align="center">
       <tr>
         <td align="center" width="100">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="python logo" />
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="react logo" />
           <br>
-          <b>Python</b>
+          <b>GitHUB</b>
         </td>
         <td align="center" width="100">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="django logo" />
-          <br>
-          <b>Django</b>
-        </td>
-        <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="flask logo" />
-          <br>
-          <b>Flask</b>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="100">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="javascript logo" />
-          <br>
-          <b>JavaScript</b>
-        </td>
-        <td align="center" width="100">
-          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="git logo" />
-          <br>
-          <b>Git</b>
-        </td>
-        <td align="center" width="100">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="mysql logo" />
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="react logo" />
           <br>
           <b>MySQL</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="react logo" />
+          <br>
+          <b>Docker</b>
         </td>
       </tr>
     </table>
