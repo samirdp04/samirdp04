@@ -59,6 +59,11 @@ I love to learn and build new, productive, innovative, and creative things.
           <b>CSS3</b>
         </td>
         <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="css3 logo" />
+          <br>
+          <b>Bootstrap</b>
+        </td>
+        <td align="center" width="100">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react logo" />
           <br>
           <b>React</b>
@@ -69,9 +74,14 @@ I love to learn and build new, productive, innovative, and creative things.
     <table align="center">
       <tr>
         <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="react logo" />
+          <br>
+          <b>Git</b>
+        </td>
+          <td align="center" width="100">
           <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="react logo" />
           <br>
-          <b>GitHUB</b>
+          <b>GitHub</b>
         </td>
         <td align="center" width="100">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="react logo" />
@@ -83,7 +93,16 @@ I love to learn and build new, productive, innovative, and creative things.
           <br>
           <b>Docker</b>
         </td>
+        <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" alt="css3 logo" />
+          <br>
+          <b>Nginx</b>
+        </td>
+        <td align="center" width="100">
+          <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="css3 logo" />
+          <br>
+          <b>SQLite</b>
+        </td> 
       </tr>
     </table>
 </div>
-
